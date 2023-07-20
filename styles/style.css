@@ -3,12 +3,12 @@ html {
 }
 
 body {
-    background: #6699ff;
+    background: #000000;
     background-repeat: no-repeat;
 }
 
 .header {
-    background-color: #003399;
+    background-color: #FF0000;
     text-align: center;
     color: #fff;
 }

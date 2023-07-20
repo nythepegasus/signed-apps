@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>                                                                                                                                                                             
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>  
+      <key>assets</key>
+      <array>   
+        <dict>      
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <!-- CHANGEME on next line -->
+          <string>https://github.com/Nythepegasus/signed-apps/raw/main/ipas/esign_4.8.2ny.ipa</string>
+        </dict>     
+      </array>  
+      <key>metadata</key>
+      <dict>    
+        <key>bundle-identifier</key>
+        <!-- CHANGEME on next line -->
+        <string>ny.esign.dev</string>
+        <!--<key>bundle-version</key>-->
+        <!-- CHANGEME -->
+        <!--<string>49</string>-->
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <!-- CHANGEME on next line -->
+        <string>Esign</string>
+      </dict>   
+    </dict> 
+  </array>
+</dict>
+</plist>

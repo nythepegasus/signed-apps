@@ -12,7 +12,7 @@
           <string>software-package</string>
           <key>url</key>
           <!-- CHANGEME on next line -->
-          <string>https://github.com/Nythepegasus/signed-apps/raw/main/ipas/esign_4.8.2ny.ipa</string>
+          <string>https://github.com/Nythepegasus/signed-apps/releases/download/4.8.2/esignny.ipa</string>
         </dict>     
       </array>  
       <key>metadata</key>

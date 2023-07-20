@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>                                                                                                                                                                             
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>  
+      <key>assets</key>
+      <array>   
+        <dict>      
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <!-- CHANGEME on next line -->
+          <string>https://drive.usercontent.google.com/download?id=16yYtBMYDAiCHvSWSQzTk8JswHyU9MDcp&export=download&authuser=0&confirm=t&uuid=9b2857a3-41ff-44ae-a773-eb478f390b6a&at=AC2mKKQv-tmf9ROkQ1BctTqNNi4m%3A1689885169049</string>
+        </dict>     
+      </array>  
+      <key>metadata</key>
+      <dict>    
+        <key>bundle-identifier</key>
+        <!-- CHANGEME on next line -->
+        <string>ny.vandetta.dev</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <!-- CHANGEME on next line -->
+        <string>Vandetta</string>
+      </dict>   
+    </dict> 
+  </array>
+</dict>
+</plist>

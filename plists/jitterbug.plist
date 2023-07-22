@@ -12,14 +12,14 @@
           <string>software-package</string>
           <key>url</key>
           <!-- CHANGEME on next line -->
-          <string>https://github.com/Nythepegasus/signed-apps/releases/download/bio/j.ipa</string>
+          <string>https://github.com/Nythepegasus/signed-apps/releases/download/1.3.1/Jitterbug.signed.ipa</string>
         </dict>     
       </array>  
       <key>metadata</key>
       <dict>    
         <key>bundle-identifier</key>
         <!-- CHANGEME on next line -->
-        <string>com.osy86.Jitterbug</string>
+        <string>ny.osy86.Jitterbug</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>

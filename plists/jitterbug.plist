@@ -19,7 +19,7 @@
       <dict>    
         <key>bundle-identifier</key>
         <!-- CHANGEME on next line -->
-        <string>ny.osy86.Jitterbug</string>
+        <string>ny.osy.Jitterbug</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>

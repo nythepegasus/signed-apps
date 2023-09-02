@@ -44,6 +44,17 @@
       official: 'https://github.com/osy/jitterbug',
       accent: 'linear-gradient(350deg, #b1f87b 0%, #0b844c 100%)',
       color: 'linear-gradient(170deg, #b1f87b 0%, #0b844c 100%)'
+    },
+    {
+      icon_src: '/dolphinios.png',
+      name: 'DolphiniOS',
+      author: 'OatmealDome',
+      description: 'GameCube and Wii games on the go.',
+      download:
+        'itms-services://?action=download-manifest&url=https://b.sidestore.app/files/dolphinios.plist',
+      official: 'https://dolphinios.oatmealdome.me/',
+      accent: 'linear-gradient(180deg, #2356a5 0%, #5bb1f9 100%)',
+      color: 'linear-gradient(180deg, #2356a5 0%, #5bb1f9 100%)'
     }
   ];
   function startMusic() {

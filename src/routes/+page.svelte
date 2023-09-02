@@ -64,7 +64,7 @@
     // Returns a random integer from 0 to 10:
     if (Math.floor(Math.random() * 11) === 8) {
       document.title = 'Sad Boi Hours';
-      soundEffect.src = '/the_ultracheese.flac';
+      soundEffect.src = '/the_ultracheese.mp3';
       soundEffect.title = 'Arctic Monkeys - The Ultracheese';
       soundEffect.loop = false;
       soundEffect.onended = () => {

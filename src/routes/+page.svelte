@@ -42,8 +42,8 @@
       download:
         'itms-services://?action=download-manifest&url=https://b.sidestore.app/files/jitterbug.plist',
       official: 'https://github.com/osy/jitterbug',
-      accent: 'linear-gradient(170deg, #b1f87b 0%, #0b844c 100%)',
-      color: 'linear-gradient(190deg, #b1f87b 0%, #0b844c 100%)'
+      accent: 'linear-gradient(350deg, #b1f87b 0%, #0b844c 100%)',
+      color: 'linear-gradient(170deg, #b1f87b 0%, #0b844c 100%)'
     }
   ];
   function startMusic() {
